@@ -1,6 +1,6 @@
 ### Fan Art in 3D
 
-I was inspired to make this giant, robotic scorpion with gatling guns by the [Wasteland 2](http://wasteland.inxile-entertainment.com/) guys. I [Kickstarted](http://www.kickstarter.com/projects/inxile/wasteland-2) this game this spring and they started cranking out concept art, some of which includes such a [robotic scorpion](http://wasteland.inxile-entertainment.com/images/press/wl2S-800x600.jpg). It's set as my desktop wallpaper, so the last time I needed a 3D-modeling/printing challenge I found it staring me in the face. So, I dusted off my [Tinkercad](https://tinkercad.com/users/jwAuHepfU5l-loren-norman) skills and set to work...
+I was inspired to make this giant, robotic scorpion with gatling guns by the [Wasteland 2](http://wasteland.inxile-entertainment.com/) guys. I [Kickstarted](http://www.kickstarter.com/projects/inxile/wasteland-2) this game this spring and they started cranking out concept art, some of which includes such a [robotic scorpion](http://wasteland.inxile-entertainment.com/images/press/wl2S-800x600.jpg). It's set as my desktop wallpaper, so the last time I needed a 3D-modeling/printing challenge I found it staring me in the face. So, I dusted off [my Tinkercad skills](https://tinkercad.com/users/jwAuHepfU5l-loren-norman) and set to work...
 
 ### Construction
 
