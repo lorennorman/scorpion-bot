@@ -1,30 +1,13 @@
-githubiverse-template
-============
+## Fan Art in 3D
 
-This is a Github Page template to show off your 3D printer model or project.  Inspiration clearly taken from the excellent Thingiverse.
+I was inspired to make this giant, robotic scorpion with gatling guns by the [Wasteland 2](http://wasteland.inxile-entertainment.com/) guys. I [Kickstarted](http://www.kickstarter.com/projects/inxile/wasteland-2) this game this spring and they started cranking out concept art, some of which includes such a [robotic scorpion](http://wasteland.inxile-entertainment.com/images/press/wl2S-800x600.jpg). It's set as my desktop wallpaper, so the last time I needed a 3D-modeling/printing challenge I found it staring me in the face. So, I dusted off my [Tinkercad](https://tinkercad.com/users/jwAuHepfU5l-loren-norman) skills and set to work...
 
-Instructions
-------------
+## Construction
 
-* Create a github project.
-* Add and commit content (sources, stl files, images), into separate folders.
-* Create an empty gh-pages branch. See http://pages.github.com for further information.
-* Copy (not clone!) the contents of this githubiverse-template project into the root directory of the gh-pages branch.
-* Edit _config.yml: Define metadata about the project and edit the preferences as required.
-* Edit index.md: Add a description, in markdown format, in the bottom section, or alternatively, use the description_file option in _config.yml to use file contents from the project root.
-* Optionally, modify the html and css to suit your tastes.
-* Test locally with jekyll, or commit and push to github.
-* When pushed, view at http://yourusername.github.com/yourprojectname, an example project can be seen here: http://garyhodgson.github.com/githubiverse-tst
+All told, this is about 15 separate prints. The pieces have little male/female affordances so that it goes together easily, just needs a little superglue. And I took the hobby knife to the gnarly bits to smooth things up. (A dremel tool sanding would be better, but that's for V2.)
 
+I primed it "desert yellow" and set about painting it. The guns are silvery of course, I also mixed up a deeper, more vibrant yellow for the carapace and a dark green for the underbelly. Then I dry-brushed it with a bright yellow (not the best effect because the print lines are pretty obvious in places) and splashed on a quick-shade.
 
-Alternative Method
-------------------
+## Fun!
 
-* Follow the instructions above but instead of copying the contents of githubiverse-template, create a submodule for the gh-pages branch into a folder called, for example, template.  I.e. `git submodule add -b gh-pages git://github.com/garyhodgson/githubiverse-template.git template`  Make sure to use the git read-only url syntax, i.e. git://...
-* Copy the _config.yml file from the template folder to the root folder and add the following at the top: `source: template`
-
-This has the benefit that the submodule can be updated without having to copy the new files in each time.  One could fork githubiverse-template, edit it to your taste, and then use it as a submodule in all your 3D printing projects.  Updating the shared template would mean only having to update the submodule in each project.
-
-License
--------
-GPL3
+All told it probably took about 20 hours of modeling, printing, and painting, but I could make new ones in more like 5 or 8 hours. Not "worth my time", strictly speaking, but boy was this fun!
